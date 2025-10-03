@@ -85,7 +85,6 @@ MScFE-600-Financial-Data-GWP-1/
 
 This project adheres to:
 - **WorldQuant University** academic formatting standards
-- **British English** language conventions
 - **Professional quantitative finance** methodologies
 - **Comprehensive documentation** and analysis
 
@@ -110,7 +109,7 @@ This project represents advanced coursework in the MSc Financial Engineering pro
 
 ## Author
 
-**MSc Financial Engineering Student**  
+**MSc Financial Engineering Students**  
 WorldQuant University  
 October 2025
 
