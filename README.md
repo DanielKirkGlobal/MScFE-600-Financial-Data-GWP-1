@@ -1,1 +1,1 @@
-This is a space to share grouup work collaboration project ideas and tasks. 
+This is a space to share group work, collaboration, project ideas and tasks. 
